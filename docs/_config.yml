@@ -1,0 +1,7 @@
+title: Bookil
+theme: minima
+
+header_pages:
+- how_to_use.md
+- support.md
+- privacy_policy.md
